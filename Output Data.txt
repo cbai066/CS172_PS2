@@ -1,0 +1,62 @@
+C:\Users\27422\PycharmProjects\HW\venv\Scripts\python.exe C:/Users/27422/PycharmProjects/HW/test.py
+Enter an absolute path to data/Users/27422/PycharmProjects/HW/data
+Enter a term:Phone
+[[2, 2], [3, 2], [4, 2], [5, 2], [6, 2], [7, 2], [8, 2], [9, 3], [10, 3], [11, 2], [12, 2], [13, 2], [14, 2], [15, 1], [16, 2], [17, 3], [18, 3], [19, 2], [20, 3]]
+19
+309
+0.006472491909385114
+265
+0.007547169811320755
+286
+0.006993006993006993
+338
+0.005917159763313609
+227
+0.00881057268722467
+284
+0.007042253521126761
+246
+0.008130081300813009
+290
+0.010344827586206896
+250
+0.012
+355
+0.005633802816901409
+342
+0.005847953216374269
+375
+0.005333333333333333
+318
+0.006289308176100629
+260
+0.0038461538461538464
+281
+0.0071174377224199285
+330
+0.00909090909090909
+265
+0.011320754716981131
+353
+0.0056657223796034
+361
+0.008310249307479225
+result in document file2: tf:0.006472; idf:0.051293; tf-idf:0.000332
+result in document file3: tf:0.007547; idf:0.051293; tf-idf:0.000387
+result in document file4: tf:0.006993; idf:0.051293; tf-idf:0.000359
+result in document file5: tf:0.005917; idf:0.051293; tf-idf:0.000304
+result in document file6: tf:0.008811; idf:0.051293; tf-idf:0.000452
+result in document file7: tf:0.007042; idf:0.051293; tf-idf:0.000361
+result in document file8: tf:0.008130; idf:0.051293; tf-idf:0.000417
+result in document file9: tf:0.010345; idf:0.051293; tf-idf:0.000531
+result in document file10: tf:0.012000; idf:0.051293; tf-idf:0.000616
+result in document file11: tf:0.005634; idf:0.051293; tf-idf:0.000289
+result in document file12: tf:0.005848; idf:0.051293; tf-idf:0.000300
+result in document file13: tf:0.005333; idf:0.051293; tf-idf:0.000274
+result in document file14: tf:0.006289; idf:0.051293; tf-idf:0.000323
+result in document file15: tf:0.003846; idf:0.051293; tf-idf:0.000197
+result in document file16: tf:0.007117; idf:0.051293; tf-idf:0.000365
+result in document file17: tf:0.009091; idf:0.051293; tf-idf:0.000466
+result in document file18: tf:0.011321; idf:0.051293; tf-idf:0.000581
+result in document file19: tf:0.005666; idf:0.051293; tf-idf:0.000291
+result in document file20: tf:0.008310; idf:0.051293; tf-idf:0.000426
